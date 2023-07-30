@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./图片",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
+}
