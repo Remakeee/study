@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/公安工作的基本方针和基本政策.md",
+                "file": "公安专业知识/笔记/公安刑事执法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3766b6375ece7ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/资料/《刑事诉讼法》/第二编　立案、侦查和提起公诉.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#基本方针",
+                "query": "侦查实验",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "c4855616621b9750",
@@ -118,7 +131,7 @@
       {
         "id": "c347d46674ff10ff",
         "type": "tabs",
-        "dimension": 23.15891472868217,
+        "dimension": 29.537366548042705,
         "children": [
           {
             "id": "5dea8544546020aa",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公安专业知识/笔记/公安工作的基本方针和基本政策.md",
+                "file": "公安专业知识/笔记/公安刑事执法.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公安专业知识/笔记/公安工作的基本方针和基本政策.md",
+                "file": "公安专业知识/笔记/公安刑事执法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安专业知识/笔记/公安工作的基本方针和基本政策.md"
+                "file": "公安专业知识/笔记/公安刑事执法.md"
               }
             }
           },
@@ -192,7 +205,7 @@
       {
         "id": "4191a25745e25944",
         "type": "tabs",
-        "dimension": 39.72868217054263,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "6df55451cfebac7d",
@@ -207,7 +220,7 @@
       {
         "id": "1ac812c500139b9c",
         "type": "tabs",
-        "dimension": 37.1124031007752,
+        "dimension": 37.129300118623966,
         "children": [
           {
             "id": "bfdf9c33475b989b",
@@ -223,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,33 +253,33 @@
   },
   "active": "f1cdec931ee17ac5",
   "lastOpenFiles": [
-    "README.md",
-    "公安专业知识/笔记/公安工作的基本方针和基本政策.md",
+    "公安专业知识/笔记/职业道德和纪律要求.md",
     "公安专业知识/笔记/公安工作的内容和特点.md",
+    "公安专业知识/笔记/公安工作的基本方针和基本政策.md",
+    "公安专业知识/笔记/公安机关的根本原则和根本路线.md",
+    "公安专业知识/笔记/公安机关的任务和职权.md",
+    "公安专业知识/笔记/公安机关的性质、职能和宗旨.md",
+    "公安专业知识/资料/《刑事诉讼法》/第二编　立案、侦查和提起公诉.md",
+    "公安专业知识/笔记/公安刑事执法.md",
+    "Day Planners/Day Planner-20230801.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 2.md",
+    "未命名 3.md",
+    "公安专业知识/笔记/政治素质.md",
+    "Day Planners/Day Planner-20230731.md",
+    "README.md",
     "Day Planners/Day Planner-20230730.md",
     "公安专业知识/资料/《民法典》/第七编 侵权责任.md",
     "公安专业知识/资料/《民法典》/第六编  继    承.md",
     "公安专业知识/资料/《民法典》/第五编  婚姻家庭.md",
     "公安专业知识/资料/《民法典》/第四编  人 格 权.md",
     "公安专业知识/资料/《民法典》/第三编  合    同.md",
-    "公安专业知识/资料/《刑事诉讼法》/第二编　立案、侦查和提起公诉.md",
     "公安专业知识/资料/《民法典》/第二编  物    权.md",
     "公安专业知识/资料/《民法典》/第一编  总    则.md",
     "Day Planners/Day Planner-20230729.md",
     "Day Planners/Day Planner-20230726.md",
-    "Day Planners/Day Planner-20230725.md",
-    "公安专业知识/笔记/职业道德和纪律要求.md",
-    "公安专业知识/笔记/政治素质.md",
-    "公安专业知识/笔记/公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/公安机关的任务和职权.md",
-    "公安专业知识/笔记/公安机关的根本原则和根本路线.md",
-    "Day Planners/Day Planner-20230724.md",
-    "Day Planners/Day Planner-20230723.md",
     "公安专业知识/笔记/图片/Pasted image 20230722133647.png",
-    "公安专业知识/资料/《司法机关内部人员过问案件的记录和责任追究规定》.md",
-    "公安专业知识/资料/《刑事诉讼法》/第三编　审　　判.md",
-    "公安专业知识/资料/《刑事诉讼法》/第四编　执　　行.md",
-    "公安专业知识/资料/《刑事诉讼法》/第一编　总　　则.md",
     "公安专业知识/资料/《刑事诉讼法》",
     "公安专业知识/未命名/未命名",
     "公安专业知识/课上练习题",
