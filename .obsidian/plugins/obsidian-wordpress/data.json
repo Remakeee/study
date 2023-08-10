@@ -1,0 +1,31 @@
+{
+  "lang": "auto",
+  "profiles": [
+    {
+      "name": "Remakeee",
+      "apiType": "xml-rpc",
+      "endpoint": "http://82.156.157.149:1234/",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        4
+      ],
+      "username": "Remakeee",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"dEvqdQJ1YD8ZpKpiuelX40CTERe2ocQCG-_Li3lPCls\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "FpfQKDK9VcyohRlF",
+        "encrypted": "OX9+qc6HlcneRp5XfyoBmNeqahLpnjVcyA=="
+      }
+    }
+  ],
+  "showRibbonIcon": true,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "closed",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": true,
+  "mathJaxOutputType": "svg",
+  "enableHtml": false,
+  "version": "2"
+}

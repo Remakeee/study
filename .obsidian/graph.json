@@ -4,21 +4,14 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#公专",
+      "query": "tag:#政治",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 0.666666666666667,
   "linkDistance": 250,
-  "scale": 0.29753196972368284,
+  "scale": 1.8092938408743608,
   "close": true
 }

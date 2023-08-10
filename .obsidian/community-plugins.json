@@ -1,7 +1,17 @@
 [
   "obsidian-day-planner",
   "periodic-notes",
-  "cmenu-plugin",
   "calendar",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "webpage-html-export",
+  "dataview",
+  "obsidian-hover-editor",
+  "floating-toc",
+  "obsidian-style-settings",
+  "file-order",
+  "cmenu-plugin",
+  "obsidian-wordpress",
+  "obsidian-banners",
+  "table-extended",
+  "tag-wrangler"
 ]
