@@ -11,11 +11,9 @@
             "id": "b66b6bb8ee3f7f08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
-                "mode": "source",
-                "source": false
+                "file": "公安专业知识/笔记/Untitled database.md"
               }
             }
           },
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "年龄",
+                "query": "tag:#价值追求",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +62,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
+                "file": "公安专业知识/笔记/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 313.5
   },
   "right": {
     "id": "c4855616621b9750",
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
+                "file": "公安专业知识/笔记/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md"
+                "file": "公安专业知识/笔记/Untitled database.md"
               }
             }
           },
@@ -214,22 +212,26 @@
   },
   "active": "b66b6bb8ee3f7f08",
   "lastOpenFiles": [
-    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/未命名思维导图.md",
+    "公安专业知识/Readme.md",
+    "模板/未命名.canvas",
+    "模板/Dataview.md",
+    "未命名.md",
     "公安专业知识/笔记/07 公安刑事执法.md",
+    "未命名 1.md",
+    "未命名 2.md",
+    "未命名 3.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
     "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
     "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
     "公安专业知识/笔记/10 公安队伍正规化建设.md",
     "Day Planners/Day Planner-20230904.md",
-    "未命名.canvas",
-    "公安专业知识/未命名思维导图.md",
     "公安专业知识/笔记/Untitled database.md",
-    "未命名 1.canvas",
-    "模板/未命名.canvas",
-    "未命名 3.md",
     "公安专业知识/笔记/13 刑法分则.md",
-    "未命名.md",
     "公安专业知识/笔记/03 公安机关的任务和职权.md",
     "公安专业知识/笔记/01 职业道德和纪律要求.md",
     "Day Planners/Day Planner-20230902.md",
@@ -250,10 +252,6 @@
     "图片/IMG_D2410054B79D-1.jpeg.md",
     "图片/IMG_A3F436E6B8A2-1.jpeg.md",
     "图片",
-    "Day Planners/Day Planner-20230829.md",
-    "Day Planners/Day Planner-20230828.md",
-    "Day Planners/Day Planner-20230827.md",
-    "Day Planners/Day Planner-20230826.md",
     "备份_1/笔记/未命名.canvas",
     "备份_1/笔记/图片/图片",
     "公安专业知识/笔记/图片",
