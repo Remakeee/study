@@ -4,71 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4de18f75225d4e",
+        "id": "59da9eaea64d0850",
         "type": "tabs",
         "children": [
           {
-            "id": "3766b6375ece7ca3",
+            "id": "b66b6bb8ee3f7f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/09 公安执法监督.md",
+                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b23b392cc477d0e2",
+            "id": "d6f1610f1a5fa4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "公安专业知识/笔记/09 公安执法监督.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ab1c4c69697641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公安专业知识/资料/《治安管理处罚法》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32203f81e757158e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公安专业知识/资料/《刑事诉讼法》/1 第二编　立案、侦查和提起公诉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c318f8c7efec989f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公安专业知识/资料/《公安派出所执法执勤工作规范》.md",
-                "mode": "source",
-                "source": false
+                "file": "公安专业知识/笔记/08 公安行政执法.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#政治",
+                "query": "年龄",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,6 +64,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 230.5
   },
   "right": {
     "id": "c4855616621b9750",
@@ -162,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,19 +136,13 @@
             }
           },
           {
-            "id": "46f1e7b8b4e5a8c4",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          },
-          {
             "id": "9a3fbf052c5034d1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md"
+              }
             }
           },
           {
@@ -206,9 +163,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "694e137d604177b0",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1ac812c500139b9c",
@@ -229,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,60 +205,64 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-wordpress:发布到 WordPress": false,
       "graph:查看关系图谱": false,
-      "periodic-notes:Open today": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "dbfolder:创建一个新数据库表": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-wordpress:发布到 WordPress": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bfdf9c33475b989b",
+  "active": "b66b6bb8ee3f7f08",
   "lastOpenFiles": [
-    "公安专业知识/笔记/09 公安执法监督.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "公安专业知识/笔记/01 职业道德和纪律要求.md",
-    "Day Planners/Day Planner-20230807.md",
-    "Day Planners/Day Planner-20230809.md",
-    "Day Planners/Day Planner-20230808.md",
-    "README.md",
-    "未命名.md",
-    "公安专业知识/Readme.md",
-    "公安专业知识/模板/Dataview.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "公安专业知识/笔记/04 公安工作的内容和特点.md",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
-    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
     "公安专业知识/笔记/08 公安行政执法.md",
-    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
-    "公安专业知识/资料/《公安派出所执法执勤工作规范》.md",
-    "公安专业知识/资料/《关于进一步规范司法人员与当事人、律师、特殊关系人、中介组织接触交往行为的若干规定》.md",
-    "公安专业知识/资料/《司法机关内部人员过问案件的记录和责任追究规定》.md",
-    "公安专业知识/资料/《刑事诉讼法》/0 第一编　总　　则.md",
-    "公安专业知识/资料/《刑事诉讼法》/1 第二编　立案、侦查和提起公诉.md",
-    "公安专业知识/资料/《刑事诉讼法》/2 第三编　审　　判.md",
-    "公安专业知识/资料/《刑事诉讼法》/3 第四编　执　　行.md",
-    "公安专业知识/资料/《民法典》/0 第一编  总    则.md",
-    "公安专业知识/笔记/图片/IMG_6CEC50754FEA-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_4A31511E8493-1.jpeg",
-    "公安专业知识/笔记/图片/81BD43FC-7BDD-4A94-99C8-278D5CCF9D4D_1_105_c.jpeg",
-    "公安专业知识/模板",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
+    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
+    "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
+    "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "Day Planners/Day Planner-20230904.md",
+    "未命名.canvas",
+    "公安专业知识/未命名思维导图.md",
+    "公安专业知识/笔记/Untitled database.md",
+    "未命名 1.canvas",
+    "模板/未命名.canvas",
+    "未命名 3.md",
+    "公安专业知识/笔记/13 刑法分则.md",
+    "未命名.md",
+    "公安专业知识/笔记/03 公安机关的任务和职权.md",
+    "公安专业知识/笔记/01 职业道德和纪律要求.md",
+    "Day Planners/Day Planner-20230902.md",
+    "Day Planners/Day Planner-20230901.md",
+    "公安专业知识/笔记/09 公安执法监督.md",
+    "Day Planners/Day Planner-20230831.md",
+    "Day Planners/Day Planner-20230830.md",
+    "公安专业知识/笔记/图片/IMG_240B1DD0574A-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_675E6C22A397-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_D1AD96DEBC15-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_A9440F8B73DD-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_90F445F3ED45-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_A0B3888868DC-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_8EA5F3C22755-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_6FA1AB6C858F-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_260E3CA18D6E-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_DF0E8028CB29-1.jpeg",
+    "图片/IMG_D2410054B79D-1.jpeg.md",
+    "图片/IMG_A3F436E6B8A2-1.jpeg.md",
+    "图片",
+    "Day Planners/Day Planner-20230829.md",
+    "Day Planners/Day Planner-20230828.md",
+    "Day Planners/Day Planner-20230827.md",
+    "Day Planners/Day Planner-20230826.md",
+    "备份_1/笔记/未命名.canvas",
+    "备份_1/笔记/图片/图片",
+    "公安专业知识/笔记/图片",
+    "公安专业知识/笔记",
+    "公安专业知识1",
+    "模板",
     "Day Planners",
-    "行政职业能力测验/图片/Pasted image 20230803162237.png",
     "行政职业能力测验/图片",
     "行政职业能力测验",
-    "公安专业知识/笔记/图片/IMG_774544C80614-1.jpeg",
-    "公安专业知识/笔记/图片",
-    "公安专业知识/笔记/图片/Pasted image 20230722133647.png",
-    "公安专业知识/资料/《刑事诉讼法》",
-    "公安专业知识/未命名/未命名",
-    "公安专业知识/课上练习题",
-    "公安专业知识/资料/《民法典》",
-    "公安专业知识/图片/Pasted image 20230716155105.png",
-    "公安专业知识/笔记",
-    "学年论文/深度伪造/图片/Pasted image 20230504104258.png",
-    "笔记/typora/assets/image-20221125150033985.png",
-    "笔记/typora/assets/image-20221125145953349.png",
-    "未命名.canvas"
+    "备份_1/笔记/图片"
   ]
 }

@@ -1,7 +1,3 @@
 {
-  "file-explorer": false,
-  "graph": false,
-  "preview": true,
-  "search": false,
-  "bookmarks": false
+  "preview": true
 }

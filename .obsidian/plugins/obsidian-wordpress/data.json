@@ -14,9 +14,9 @@
       ],
       "username": "Remakeee",
       "encryptedPassword": {
-        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"dEvqdQJ1YD8ZpKpiuelX40CTERe2ocQCG-_Li3lPCls\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
-        "vector": "FpfQKDK9VcyohRlF",
-        "encrypted": "OX9+qc6HlcneRp5XfyoBmNeqahLpnjVcyA=="
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"NjOWeMa6H1zp3NGLPNsKiCCDLpZ591mujS82DRIrsqE\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "YnykAFDBbC2F3Btp",
+        "encrypted": "pKmJEUbDi6WeWBbXrNDAp3QT3D4W3KjhcA=="
       }
     }
   ],
@@ -26,6 +26,6 @@
   "rememberLastSelectedCategories": true,
   "showWordPressEditConfirm": true,
   "mathJaxOutputType": "svg",
-  "enableHtml": false,
+  "enableHtml": true,
   "version": "2"
 }
