@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "大四上没用的东西/未命名.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -16,
-                  "zoom": 0
+                  "x": 769.056467815614,
+                  "y": 678.0151263079647,
+                  "zoom": -0.3701396205490114
                 }
               }
             }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "大四上没用的东西/未命名.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "大四上没用的东西/未命名.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.canvas"
+            "file": "大四上没用的东西/未命名.canvas"
           }
         }
       },
@@ -147,8 +147,7 @@
         }
       }
     ],
-    "currentTab": 2,
-    "pinned": true
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +166,20 @@
   },
   "active": "0288f3eddb80f2df",
   "lastOpenFiles": [
-    "公安专业知识/笔记/13 刑法分则.md",
-    "Untitled.canvas",
-    "公安专业知识/笔记/12 刑法总则.md",
     "大四上没用的东西/太原警察王文军.md",
+    "大四上没用的东西/大纲.md",
+    "大四上没用的东西/王文军案一审.canvas",
+    "大四上没用的东西/未命名.canvas",
+    "Day Planners/Day Planner-20230907.md",
+    "公安专业知识/笔记/13 刑法分则.md",
+    "大四上没用的东西/未命名 1.md",
+    "未命名 2.md",
+    "Untitled.canvas",
+    "未命名 1.md",
+    "公安专业知识/笔记/12 刑法总则.md",
     "Pytorch_中文手册/未命名思维导图.md",
     "Pytorch_中文手册",
     "Day Planners/Day Planner-20230906.md",
-    "大四上没用的东西/王文军案一审.canvas",
     "大四上没用的东西/治安管理学.md",
     "Day Planners/Day Planner-20230904.md",
     "公安专业知识/笔记/08 公安行政执法.md",
@@ -193,11 +198,6 @@
     "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
     "图片",
     "Day Planners/Day Planner-20230829.md",
-    "公安专业知识/笔记/04 公安工作的内容和特点.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/01 职业道德和纪律要求.md",
-    "公安专业知识/笔记/00 政治素质.md",
     "公安专业知识/笔记/图片/IMG_CBD4738B87A2-1.jpeg",
     "公安专业知识/笔记/图片/IMG_86A94E5A1C9E-1.jpeg",
     "公安专业知识/笔记/图片/IMG_005A4A90111A-1.jpeg",

@@ -13,38 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/08 公安行政执法.md",
+                "file": "Pytorch_中文手册/未命名思维导图.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ba0c5891b6ce08c",
+            "id": "8742576a7ae9d1ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大四上没用的东西/太原警察王文军.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff3a1f6f46c91c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大四上没用的东西/大纲.md",
+                "file": "公安专业知识/资料/《刑事诉讼法》.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "检查",
+                "query": "基本方针",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大四上没用的东西/大纲.md",
+                "file": "Pytorch_中文手册/未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大四上没用的东西/大纲.md",
+                "file": "Pytorch_中文手册/未命名思维导图.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大四上没用的东西/大纲.md"
+                "file": "Pytorch_中文手册/未命名思维导图.md"
               }
             }
           },
@@ -225,37 +212,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aff3a1f6f46c91c0",
+  "active": "b66b6bb8ee3f7f08",
   "lastOpenFiles": [
+    "大四上没用的东西/未命名.canvas",
+    "大四上没用的东西/课_刑事诉讼法.md",
     "大四上没用的东西/未命名.md",
-    "大四上没用的东西/大纲.md",
-    "大四上没用的东西/治安管理学.md",
-    "大四上没用的东西/王文军案一审.canvas",
-    "Untitled.canvas",
-    "大四上没用的东西/太原警察王文军.md",
-    "Pytorch_中文手册/未命名思维导图.md",
-    "公安专业知识/笔记/12 刑法总则.md",
-    "Pytorch_中文手册",
-    "Day Planners/Day Planner-20230906.md",
-    "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "公安专业知识/资料/《刑事诉讼法》.md",
     "公安专业知识/笔记/08 公安行政执法.md",
-    "公安专业知识/资料/《治安管理处罚法》.md",
     "公安专业知识/资料/《公安机关办理行政案件程序规定》.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
-    "公安专业知识/笔记/09 公安执法监督.md",
+    "公安专业知识/资料/《《刑事诉讼法》刑事诉讼法》/2 第三编　审　　判.md",
+    "公安专业知识/资料/《公安派出所执法执勤工作规范》.md",
+    "公安专业知识/资料/《《刑事诉讼法》刑事诉讼法》/3 第四编　执　　行.md",
+    "公安专业知识/资料/《《刑事诉讼法》刑事诉讼法》/1 第二编　立案、侦查和提起公诉.md",
+    "公安专业知识/资料/《《刑事诉讼法》刑事诉讼法》/0 第一编　总　　则.md",
     "公安专业知识/笔记/13 刑法分则.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/04 公安工作的内容和特点.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "Day Planners/Day Planner-20230904.md",
-    "Day Planners/Day Planner-20230905.md",
-    "Day Planners/Day Planner-20230826.md",
-    "Day Planners/Day Planner-20230828.md",
-    "公安专业知识/笔记/11 公安机关人民警察内务条令.md",
+    "Day Planners/Day Planner-20230908.md",
+    "Day Planners/Day Planner-20230907.md",
+    "大四上没用的东西/王文军案一审.canvas",
+    "大四上没用的东西/大纲.md",
+    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
+    "公安专业知识/资料/《治安管理处罚法》.md",
     "公安专业知识/资料/《中华人民共和国人民警察法》.md",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
-    "未命名.md",
+    "大四上没用的东西/太原警察王文军.md",
+    "大四上没用的东西/未命名 1.md",
+    "未命名 2.md",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "未命名 1.md",
+    "大四上没用的东西/治安管理学.md",
+    "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "Untitled.canvas",
+    "Pytorch_中文手册/未命名思维导图.md",
+    "Pytorch_中文手册",
     "大四上没用的东西",
     "模板/未命名.canvas",
     "未命名 1.canvas",
