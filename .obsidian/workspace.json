@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd4d5f868c38b78f",
+            "id": "c239f78ec69aff10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/18 人民警察法.md",
+                "file": "公安专业知识/资料/《刑事诉讼法》.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf4ea6b7cd1e5f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "公安专业知识/笔记/图片/IMG_DBD1411831E1-1.jpeg"
               }
             }
           }
@@ -39,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "警衔",
-                "matchingCase": true,
+                "query": "两小无猜",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -54,7 +64,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公安专业知识/笔记/18 人民警察法.md",
+                "file": "公安专业知识/资料/《刑事诉讼法》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公安专业知识/笔记/18 人民警察法.md",
+                "file": "公安专业知识/资料/《刑事诉讼法》.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安专业知识/笔记/18 人民警察法.md"
+                "file": "公安专业知识/资料/《刑事诉讼法》.md"
               }
             }
           },
@@ -164,7 +174,7 @@
             }
           },
           {
-            "id": "0a5742809c7eb3ef",
+            "id": "bdab2d77c18ae485",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f2f378a6b3d6e2a0",
@@ -204,69 +214,68 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "graph:查看关系图谱": false,
+      "periodic-notes:Open today": false,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-wordpress:发布到 WordPress": false,
-      "dbfolder:创建一个新数据库表": false,
-      "periodic-notes:Open today": false
+      "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "6b89fc5ee0774b6f",
+  "active": "c239f78ec69aff10",
   "lastOpenFiles": [
-    "公安专业知识/资料/《刑事诉讼法》.md",
-    "公安专业知识/笔记/18 人民警察法.md",
-    "公安专业知识/笔记/17 刑事诉讼法.md",
-    "公安专业知识/笔记/图片/IMG_1374D2C19F9D-1.jpeg",
-    "公安专业知识/资料/《治安管理处罚法》.md",
-    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
-    "公安专业知识/笔记/08 公安行政执法.md",
-    "公安专业知识/资料/《公安机关办理行政案件程序规定》.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
     "公安专业知识/笔记/12 刑法总则.md",
-    "公安专业知识/笔记/01 职业道德和纪律要求.md",
+    "公安专业知识/笔记/图片/IMG_1ADB65B3C72E-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_0CBD3A4E2E6B-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_0CB8172DA12F-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_DBD1411831E1-1.jpeg",
+    "公安专业知识/笔记/图片/81BD43FC-7BDD-4A94-99C8-278D5CCF9D4D_1_105_c.jpeg",
     "公安专业知识/笔记/13 刑法分则.md",
-    "公安专业知识/笔记/16 立法法.md",
+    "公安专业知识/笔记/19 民法.md",
+    "公安专业知识/资料/《治安管理处罚法》.md",
+    "大四上没用的东西/王文军案一审.canvas",
+    "公安专业知识/笔记/11 公安机关人民警察内务条令.md",
+    "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "公安专业知识/笔记/09 公安执法监督.md",
+    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "公安专业知识/资料/《民法典》/1 第二编  物    权.md",
+    "公安专业知识/笔记/00 政治素质.md",
+    "公安专业知识/资料/《民法典》/0 第一编  总    则.md",
+    "工作日记/日/2023-09-23.md",
+    "工作日记/日/2023-09-22.md",
+    "公安专业知识/笔记/17 刑事诉讼法.md",
+    "公安专业知识/笔记/刑事诉讼法_课.md",
+    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
+    "模板/日记模板.md",
+    "公安专业知识/资料/《刑事诉讼法》.md",
+    "公安专业知识/图片/Pasted image 20230716155105.png",
+    "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
     "公安专业知识/笔记/15 宪法.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "大四上没用的东西/治安管理学.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "未命名.md",
-    "未命名 1.md",
+    "公安专业知识/笔记/Untitled database.md",
+    "公安专业知识/笔记/18 人民警察法.md",
+    "申论/申论.md",
+    "Day Planners",
+    "申论",
+    "Untitled.canvas",
+    "模板/未命名.canvas",
+    "学习笔记",
+    "公安专业知识/笔记/图片/IMG_1374D2C19F9D-1.jpeg",
     "Pytorch_中文手册/未命名.canvas",
     "Pytorch_中文手册/未命名 1.canvas",
     "大四上没用的东西/张磊案_最终.canvas",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "大四上没用的东西/大纲.md",
     "大四上没用的东西/张磊案.canvas",
-    "大四上没用的东西/张磊案.md",
-    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
-    "公安专业知识/笔记/14 反有组织犯罪法.md",
     "大四上没用的东西/未命名.canvas",
-    "大四上没用的东西/未命名.md",
-    "大四上没用的东西/未命名 1.md",
     "大四上没用的东西/证人证言.canvas",
     "公安专业知识/笔记/图片/IMG_60F1EC32FF33-1.jpeg",
     "工作日记/日",
     "工作日记",
     "公安专业知识/笔记/图片/IMG_E9DABFC223F3-1.jpeg",
     "公安专业知识/笔记/图片/IMG_70D51BEAC241-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_1340063973B0-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_78186F744703-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_942546D3F855-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_D0E426935532-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_B2FF34183C9D-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_1340632C70C0-1.jpeg",
-    "大四上没用的东西/王文军案一审.canvas",
-    "Untitled.canvas",
     "Pytorch_中文手册",
     "大四上没用的东西",
-    "模板/未命名.canvas",
     "未命名 1.canvas",
     "图片",
     "备份_1/笔记/图片/图片",
-    "公安专业知识/笔记/图片",
-    "公安专业知识/笔记",
-    "公安专业知识1",
-    "模板"
+    "公安专业知识/笔记/图片"
   ]
 }
