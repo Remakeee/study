@@ -14,9 +14,9 @@
       ],
       "username": "Remakeee",
       "encryptedPassword": {
-        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"CAdrtVCCOfK7mxeCYt9tnbg7atDWgs463UBCDw3aEx4\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
-        "vector": "s30p2xbNGbNzqVa1",
-        "encrypted": "TEoHw8hSHUasV2xG/Y8zvSeF0DjhrgctrQ=="
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"ykYZJawRmFkwV1AAlTOC0Q6p_I8E8_cvnYx0MsqmjnM\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "qEbOgW+UudcJxnEm",
+        "encrypted": "mo7E+QvXHj0qOlRX1rBnRI/btYLGNygwCQ=="
       }
     }
   ],

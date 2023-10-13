@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行政职业能力测验/图形推理.md",
+                "file": "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "236ada552b40c239",
+            "id": "4968f3758b633673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行政职业能力测验/图推_题.md",
+                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "思想领导",
+                "query": "言词",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -67,7 +67,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行政职业能力测验/图推_题.md",
+                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行政职业能力测验/图推_题.md",
+                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行政职业能力测验/图推_题.md"
+                "file": "公安专业知识/笔记/刑事诉讼法_课.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "9664631d9df9630b",
+            "id": "72dc080785fff742",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "f2f378a6b3d6e2a0",
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,68 +218,69 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "graph:查看关系图谱": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-wordpress:发布到 WordPress": false,
       "dbfolder:创建一个新数据库表": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "236ada552b40c239",
+  "active": "4968f3758b633673",
   "lastOpenFiles": [
-    "行政职业能力测验/图片/Pasted image 20231010082641.png",
-    "行政职业能力测验/图推_题.md",
-    "行政职业能力测验/图片/Pasted image 20231010082559.png",
-    "行政职业能力测验/图片/Pasted image 20231010082428.png",
-    "行政职业能力测验/图片/Pasted image 20231009194634.png",
-    "行政职业能力测验/图片/Pasted image 20231009194311.png",
-    "行政职业能力测验/图片/Pasted image 20231009194240.png",
-    "行政职业能力测验/图片/Pasted image 20231009194154.png",
-    "行政职业能力测验/图片/Pasted image 20231009192932.png",
-    "行政职业能力测验/图片/Pasted image 20231009192701.png",
-    "行政职业能力测验/图片/Pasted image 20231009192631.png",
-    "行政职业能力测验/图形推理.md",
-    "公安专业知识/资料/《中华人民共和国宪法》.md",
-    "公安专业知识/笔记/01 职业道德和纪律要求.md",
-    "公安专业知识/笔记/19 民法.md",
-    "公安专业知识/笔记/20 法理学.md",
-    "公安专业知识/笔记/错题.md",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
-    "公安专业知识/笔记/13 刑法分则.md",
-    "公安专业知识/资料/《治安管理处罚法》.md",
-    "公安专业知识/资料/《公安机关办理行政案件程序规定》.md",
-    "公安专业知识/资料/《刑事诉讼法》.md",
-    "公安专业知识/笔记/17 刑事诉讼法.md",
-    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
     "公安专业知识/笔记/刑事诉讼法_课.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/15 宪法.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
+    "公安专业知识/笔记/20 法理学.md",
+    "公安专业知识/笔记/19 民法.md",
     "公安专业知识/笔记/18 人民警察法.md",
-    "工作日记/日/2023-10-08.md",
-    "公安专业知识/笔记/09 公安执法监督.md",
-    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
+    "公安专业知识/笔记/17 刑事诉讼法.md",
+    "公安专业知识/笔记/16 立法法.md",
+    "公安专业知识/笔记/15 宪法.md",
+    "公安专业知识/笔记/14 反有组织犯罪法.md",
+    "公安专业知识/笔记/13 刑法分则.md",
+    "公安专业知识/笔记/12 刑法总则.md",
+    "公安专业知识/笔记/11 公安机关人民警察内务条令.md",
     "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "公安专业知识/笔记/09 公安执法监督.md",
+    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
+    "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/笔记/03 公安机关的任务和职权.md",
+    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
+    "公安专业知识/笔记/00 政治素质.md",
+    "公安专业知识/资料/《刑事诉讼法》.md",
+    "学习笔记/discord——chatgpt机器人.md",
+    "公安专业知识/错题.md",
+    "申论/申论.md",
+    "工作日记/日/2023-10-12.md",
+    "工作日记/日/图片/Pasted image 20231012154552.png",
+    "Pytorch_中文手册/未命名.canvas",
+    "公安专业知识/笔记/图片/IMG_B3666C77D1D5-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_2A3777325749-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_012531B9B9A3-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_C2343FAA1FEA-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_306EE5F3CFEF-1 1.jpeg",
+    "公安专业知识/笔记/图片/IMG_707CF412DCE9-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_28584835180F-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_2DB10D67AE0A-1.jpeg",
+    "公安专业知识/笔记/图片/IMG_8CCE6949E28A-1.jpeg",
+    "操作系统/图片",
+    "操作系统/HelloOS/entry.asm",
+    "操作系统/HelloOS/vgastr.h",
+    "操作系统/HelloOS/main.c",
+    "操作系统/HelloOS/vgastr.c",
+    "操作系统/HelloOS/Makefile",
+    "操作系统/HelloOS/hello.lds",
+    "操作系统/HelloOS",
+    "操作系统",
     "学习笔记/screeps",
-    "工作日记/日/图片",
     "大四上没用的东西/未命名.canvas",
     "大四上没用的东西/王文军案一审.canvas",
-    "Day Planners",
-    "申论",
     "Untitled.canvas",
     "模板/未命名.canvas",
-    "学习笔记",
-    "Pytorch_中文手册/未命名.canvas",
     "Pytorch_中文手册/未命名 1.canvas",
     "大四上没用的东西/张磊案_最终.canvas",
     "大四上没用的东西/张磊案.canvas",
     "大四上没用的东西/证人证言.canvas",
-    "工作日记/日",
-    "工作日记",
-    "Pytorch_中文手册",
-    "大四上没用的东西",
-    "未命名 1.canvas",
-    "图片"
+    "未命名 1.canvas"
   ]
 }
