@@ -36,9 +36,11 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    isSorted: true
+    isSortedDesc: false
+    sortIndex: 1
     position: 0
     isHidden: false
-    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true

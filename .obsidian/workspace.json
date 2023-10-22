@@ -25,14 +25,74 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "公安专业知识/资料/《刑事诉讼法》.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0fa05e38ab4abb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "公安专业知识/笔记/刑事诉讼法_课.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc0315fe466426b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32976167a1c92dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/笔记/07 公安刑事执法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2ffe81436e37b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/笔记/00 政治素质.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b2a153236d98f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/错题.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -47,21 +107,6 @@
         "dimension": 42.110990206746465,
         "children": [
           {
-            "id": "6b89fc5ee0774b6f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "言词",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "0db280570b5dfcc2",
             "type": "leaf",
             "state": {
@@ -72,8 +117,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dff33e1fd662ea33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "拘传",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cff174de7382420c",
@@ -131,7 +192,7 @@
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "^cd89bd ",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "f2f378a6b3d6e2a0",
@@ -220,40 +281,45 @@
       "graph:查看关系图谱": false,
       "obsidian-wordpress:发布到 WordPress": false,
       "dbfolder:创建一个新数据库表": false,
-      "periodic-notes:Open today": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4968f3758b633673",
+  "active": "bdc0315fe466426b",
   "lastOpenFiles": [
-    "公安专业知识/笔记/06 公安工作的基本方针和基本政策.md",
-    "公安专业知识/笔记/刑事诉讼法_课.md",
-    "公安专业知识/笔记/20 法理学.md",
-    "公安专业知识/笔记/19 民法.md",
-    "公安专业知识/笔记/18 人民警察法.md",
-    "公安专业知识/笔记/17 刑事诉讼法.md",
-    "公安专业知识/笔记/16 立法法.md",
-    "公安专业知识/笔记/15 宪法.md",
-    "公安专业知识/笔记/14 反有组织犯罪法.md",
-    "公安专业知识/笔记/13 刑法分则.md",
-    "公安专业知识/笔记/12 刑法总则.md",
-    "公安专业知识/笔记/11 公安机关人民警察内务条令.md",
-    "公安专业知识/笔记/10 公安队伍正规化建设.md",
-    "公安专业知识/笔记/09 公安执法监督.md",
-    "公安专业知识/笔记/08 公安行政执法.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
-    "公安专业知识/笔记/05 公安机关的根本原则和根本路线.md",
-    "公安专业知识/笔记/04 公安工作的内容和特点.md",
-    "公安专业知识/笔记/03 公安机关的任务和职权.md",
-    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "公安专业知识/资料/《刑事诉讼法》.md",
-    "学习笔记/discord——chatgpt机器人.md",
     "公安专业知识/错题.md",
+    "公安专业知识/资料/《刑事诉讼法》.md",
+    "公安专业知识/笔记/刑事诉讼法_课.md",
+    "公安专业知识/笔记/24 娱乐场所管理条例.md",
+    "python/text1.ipynb",
+    "python",
+    "未命名文件夹",
+    "公安专业知识/笔记/23 公安机关组织管理条例.md",
+    "公安专业知识/笔记/22 国家安全法.md",
+    "公安专业知识/笔记/21 反恐怖主义法.md",
+    "工作日记/日/2023-10-20.md",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "公安专业知识/笔记/10 公安队伍正规化建设.md",
+    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
+    "公安专业知识/笔记/17 刑事诉讼法.md",
     "申论/申论.md",
-    "工作日记/日/2023-10-12.md",
-    "工作日记/日/图片/Pasted image 20231012154552.png",
+    "公安专业知识/笔记/19 民法.md",
+    "公安专业知识/笔记/13 刑法分则.md",
+    "公安专业知识/笔记/Untitled database.md",
+    "公安专业知识/笔记/00 政治素质.md",
+    "公安专业知识/笔记/20 法理学.md",
+    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/资料/《中华人民共和国宪法》.md",
+    "大四上没用的东西/治安管理学.md",
+    "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/资料/《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》.md",
+    "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
+    "公安专业知识/图片/Pasted image 20230716155105.png",
+    "公安专业知识/笔记/01 职业道德和纪律要求.md",
+    "大四上没用的东西/王文军案一审.canvas",
+    "大四上没用的东西/太原警察王文军.md",
     "Pytorch_中文手册/未命名.canvas",
+    "工作日记/日/图片/Pasted image 20231012154552.png",
     "公安专业知识/笔记/图片/IMG_B3666C77D1D5-1.jpeg",
     "公安专业知识/笔记/图片/IMG_2A3777325749-1.jpeg",
     "公安专业知识/笔记/图片/IMG_012531B9B9A3-1.jpeg",
@@ -262,7 +328,6 @@
     "公安专业知识/笔记/图片/IMG_707CF412DCE9-1.jpeg",
     "公安专业知识/笔记/图片/IMG_28584835180F-1.jpeg",
     "公安专业知识/笔记/图片/IMG_2DB10D67AE0A-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_8CCE6949E28A-1.jpeg",
     "操作系统/图片",
     "操作系统/HelloOS/entry.asm",
     "操作系统/HelloOS/vgastr.h",
@@ -270,11 +335,7 @@
     "操作系统/HelloOS/vgastr.c",
     "操作系统/HelloOS/Makefile",
     "操作系统/HelloOS/hello.lds",
-    "操作系统/HelloOS",
-    "操作系统",
-    "学习笔记/screeps",
     "大四上没用的东西/未命名.canvas",
-    "大四上没用的东西/王文军案一审.canvas",
     "Untitled.canvas",
     "模板/未命名.canvas",
     "Pytorch_中文手册/未命名 1.canvas",
