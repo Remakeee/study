@@ -49,20 +49,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
-                "mode": "source",
+                "file": "公安专业知识/笔记/26 治安管理处罚法.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "32976167a1c92dfa",
+            "id": "ccb41332ff3bc345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安专业知识/笔记/07 公安刑事执法.md",
-                "mode": "source",
+                "file": "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db3a1a9914bddafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/资料/《治安管理处罚法》.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
+                "file": "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +136,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拘传",
+                "query": "逮捕",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公安专业知识/笔记/刑事诉讼法_课.md",
+                "file": "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安专业知识/笔记/刑事诉讼法_课.md"
+                "file": "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md"
               }
             }
           },
@@ -285,39 +297,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bdc0315fe466426b",
+  "active": "24ddf219ff79424c",
   "lastOpenFiles": [
-    "公安专业知识/错题.md",
-    "公安专业知识/资料/《刑事诉讼法》.md",
-    "公安专业知识/笔记/刑事诉讼法_课.md",
-    "公安专业知识/笔记/24 娱乐场所管理条例.md",
-    "python/text1.ipynb",
-    "python",
-    "未命名文件夹",
-    "公安专业知识/笔记/23 公安机关组织管理条例.md",
-    "公安专业知识/笔记/22 国家安全法.md",
-    "公安专业知识/笔记/21 反恐怖主义法.md",
-    "工作日记/日/2023-10-20.md",
-    "公安专业知识/笔记/07 公安刑事执法.md",
-    "公安专业知识/笔记/10 公安队伍正规化建设.md",
-    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
-    "公安专业知识/笔记/17 刑事诉讼法.md",
-    "申论/申论.md",
-    "公安专业知识/笔记/19 民法.md",
-    "公安专业知识/笔记/13 刑法分则.md",
-    "公安专业知识/笔记/Untitled database.md",
-    "公安专业知识/笔记/00 政治素质.md",
-    "公安专业知识/笔记/20 法理学.md",
-    "公安专业知识/笔记/08 公安行政执法.md",
-    "公安专业知识/资料/《中华人民共和国宪法》.md",
-    "大四上没用的东西/治安管理学.md",
-    "公安专业知识/笔记/04 公安工作的内容和特点.md",
-    "公安专业知识/资料/《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》.md",
+    "公安专业知识/笔记/03 公安机关的任务和职权.md",
     "公安专业知识/笔记/02 公安机关的性质、职能和宗旨.md",
-    "公安专业知识/图片/Pasted image 20230716155105.png",
     "公安专业知识/笔记/01 职业道德和纪律要求.md",
+    "公安专业知识/笔记/27 业务能力.md",
+    "公安专业知识/笔记/19 民法.md",
+    "特种行业.md",
+    "未命名 2.md",
+    "公安专业知识/笔记/26 治安管理处罚法.md",
+    "公安专业知识/笔记/13 刑法分则.md",
+    "大四上没用的东西/张磊案.canvas",
+    "公安专业知识/笔记/07 公安刑事执法.md",
+    "python/bayes.ipynb",
+    "python/bayes.ip[ynb",
+    "python/function.ipynb",
+    "公安专业知识/笔记/刑事诉讼法_课.md",
+    "公安专业知识/资料/《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》.md",
+    "公安专业知识/笔记/04 公安工作的内容和特点.md",
+    "公安专业知识/资料/《中华人民共和国人民警察法》.md",
+    "公安专业知识/资料/《刑事诉讼法》.md",
+    "公安专业知识/资料/《治安管理处罚法》.md",
+    "公安专业知识/笔记/17 刑事诉讼法.md",
+    "python/trees.ipynb",
+    "申论/申论.md",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_99.txt",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_98.txt",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_97.txt",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_96.txt",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_95.txt",
+    "python/machinelearninginaction/Ch02/digits/trainingDigits/9_94.txt",
+    "python/machinelearninginaction/Ch10/Portland.png",
+    "工作日记/日/2023-10-25.md",
+    "公安专业知识/资料/《公安机关办理行政案件程序规定》.md",
+    "公安专业知识/资料/《公安派出所执法执勤工作规范》.md",
+    "公安专业知识/笔记/25 行政处罚法.md",
+    "公安专业知识/笔记/08 公安行政执法.md",
+    "公安专业知识/笔记/24 娱乐场所管理条例.md",
+    "公安专业知识/笔记/12 刑法总则.md",
+    "行政职业能力测验/图推_题.md",
+    "公安专业知识/图片/Pasted image 20230716155105.png",
     "大四上没用的东西/王文军案一审.canvas",
-    "大四上没用的东西/太原警察王文军.md",
     "Pytorch_中文手册/未命名.canvas",
     "工作日记/日/图片/Pasted image 20231012154552.png",
     "公安专业知识/笔记/图片/IMG_B3666C77D1D5-1.jpeg",
@@ -327,20 +348,11 @@
     "公安专业知识/笔记/图片/IMG_306EE5F3CFEF-1 1.jpeg",
     "公安专业知识/笔记/图片/IMG_707CF412DCE9-1.jpeg",
     "公安专业知识/笔记/图片/IMG_28584835180F-1.jpeg",
-    "公安专业知识/笔记/图片/IMG_2DB10D67AE0A-1.jpeg",
-    "操作系统/图片",
-    "操作系统/HelloOS/entry.asm",
-    "操作系统/HelloOS/vgastr.h",
-    "操作系统/HelloOS/main.c",
-    "操作系统/HelloOS/vgastr.c",
-    "操作系统/HelloOS/Makefile",
-    "操作系统/HelloOS/hello.lds",
     "大四上没用的东西/未命名.canvas",
     "Untitled.canvas",
     "模板/未命名.canvas",
     "Pytorch_中文手册/未命名 1.canvas",
     "大四上没用的东西/张磊案_最终.canvas",
-    "大四上没用的东西/张磊案.canvas",
     "大四上没用的东西/证人证言.canvas",
     "未命名 1.canvas"
   ]
